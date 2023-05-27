@@ -1,0 +1,28 @@
+[
+    {
+        "id": 242328202,
+        "name": "srg",
+        "coordinates": {
+            "x": 4,
+            "y": 4
+        },
+        "creationDate": "2023-05-17T04:41:00.0612883",
+        "enginePower": 4,
+        "distanceTravelled": 4.0,
+        "type": null,
+        "fuelType": null
+    },
+    {
+        "id": 1710968398,
+        "name": "fe",
+        "coordinates": {
+            "x": 3,
+            "y": 3
+        },
+        "creationDate": "2023-05-16T23:05:23.3847729",
+        "enginePower": 3,
+        "distanceTravelled": 3.0,
+        "type": null,
+        "fuelType": null
+    }
+]
